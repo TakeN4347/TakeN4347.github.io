@@ -1,9 +1,9 @@
 :root {
   --black: #404040;
-  --primary-color: #81d4fa; /* blue */
+  --primary-color: #81d4fa;
   --primary-color-lighten-1: #b3e5fc;
   --primary-color-darken-1: #4fc3f7;
-  --secondary-color: #ff7043; /* orange */
+  --secondary-color: #ff7043;
   --secondary-color-lighten-1: #ff8a65;
   --secondary-color-darken-1: #ff5722;
   --tertiary-color: #ffeb3b;
@@ -16,7 +16,7 @@ body,
 p,
 a,
 button {
-  font-family: 'Playfair Display', serif; /* IE fallback */
+  font-family: 'Playfair Display', serif;
   font-family: var(--primary-font);
 }
 
@@ -37,7 +37,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Josefin Sans', sans-serif; /* IE fallback */
+  font-family: 'Josefin Sans', sans-serif;
   font-family: var(--secondary-font);
 }
 
@@ -72,7 +72,7 @@ nav .brand-logo {
 
 .logo-em {
   color: var(--primary-color);
-  font-family: 'Playfair Display', serif; /* IE fallback */
+  font-family: 'Playfair Display', serif;
   font-family: var(--primary-font);
   font-style: italic;
   font-size: 1.9rem;
@@ -84,7 +84,7 @@ nav .brand-logo {
 }
 
 .card-title {
-  font-family: 'Playfair Display', serif; /* IE fallback */
+  font-family: 'Playfair Display', serif;
   font-family: var(--primary-font);
 }
 
